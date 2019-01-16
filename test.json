@@ -23,7 +23,7 @@
                 ], 
                 "asr": [
                     [
-                        "I want to eat Mexican food in city center", 
+                        "please give me the address of the cheap italian restaurant in the west", 
                         1.0
                     ]
                 ], 
@@ -67,7 +67,7 @@
                         "act": "inform"
                     }
                 ], 
-                "transcript": "I want to eat Mexican food in city center", 
+                "transcript": "please give me the address of the cheap italian restaurant in the west", 
                 "system_acts": []
             }
         ]    
