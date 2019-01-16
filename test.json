@@ -2,18 +2,72 @@
     {
         "dialogue_idx": 001, 
         "dialogue": [
-            {
-                "turn_label": [["area","east"],["food","indian"]], 
-                "asr": ["I want to eat Mexican food in east of city",1.0], 
+           {
+                "turn_label": [
+                    [
+                        "area", 
+                        "east"
+                    ], 
+                    [
+                        "price range", 
+                        "cheap"
+                    ], 
+                    [
+                        "request", 
+                        "phone"
+                    ], 
+                    [
+                        "request", 
+                        "postcode"
+                    ]
+                ], 
+                "asr": [
+                    [
+                        "I want to eat Mexican food in the city center", 
+                        1.0
+                    ]
+                ], 
                 "system_transcript": "", 
                 "turn_idx": 0, 
                 "belief_state": [
                     {
-                        "slots": [], 
-                        "act": ""
+                        "slots": [
+                            [
+                                "slot", 
+                                "phone"
+                            ]
+                        ], 
+                        "act": "request"
+                    }, 
+                    {
+                        "slots": [
+                            [
+                                "slot", 
+                                "postcode"
+                            ]
+                        ], 
+                        "act": "request"
+                    }, 
+                    {
+                        "slots": [
+                            [
+                                "price range", 
+                                "cheap"
+                            ]
+                        ], 
+                        "act": "inform"
+                    }, 
+                    {
+                        "slots": [
+                            [
+                                "area", 
+                                "east"
+                            ]
+                        ], 
+                        "act": "inform"
                     }
                 ], 
-                "transcript": "I want to eat Mexican food in east of city", 
+                "transcript": "I want to eat Mexican food in the city center", 
                 "system_acts": []
             }
         ]    
