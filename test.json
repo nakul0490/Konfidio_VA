@@ -3,7 +3,7 @@
         "dialogue_idx": 001, 
         "dialogue": [
             {
-                "turn_label": [], 
+                "turn_label": [["area","east"],["food","indian"]], 
                 "asr": ["I want to eat Mexican food in east of city",1.0], 
                 "system_transcript": "", 
                 "turn_idx": 0, 
