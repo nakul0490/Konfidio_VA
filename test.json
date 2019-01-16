@@ -1,8 +1,8 @@
 [
     {
-        "dialogue_idx": 001, 
+        "dialogue_idx": 800, 
         "dialogue": [
-           {
+            {
                 "turn_label": [
                     [
                         "area", 
@@ -23,7 +23,7 @@
                 ], 
                 "asr": [
                     [
-                        "I want to eat Mexican food in the city center", 
+                        "I want to eat Mexican food in city center", 
                         1.0
                     ]
                 ], 
@@ -67,7 +67,7 @@
                         "act": "inform"
                     }
                 ], 
-                "transcript": "I want to eat Mexican food in the city center", 
+                "transcript": "I want to eat Mexican food in city center", 
                 "system_acts": []
             }
         ]    
