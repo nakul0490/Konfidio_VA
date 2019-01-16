@@ -1,73 +1,19 @@
 [
     {
-        "dialogue_idx": 800, 
+        "dialogue_idx": 001, 
         "dialogue": [
             {
-                "turn_label": [
-                    [
-                        "area", 
-                        "east"
-                    ], 
-                    [
-                        "price range", 
-                        "cheap"
-                    ], 
-                    [
-                        "request", 
-                        "phone"
-                    ], 
-                    [
-                        "request", 
-                        "postcode"
-                    ]
-                ], 
-                "asr": [
-                    [
-                        "Please tell me an Indian restaurant in the center?", 
-                        1.0
-                    ]
-                ], 
+                "turn_label": [] 
+                "asr": [], 
                 "system_transcript": "", 
                 "turn_idx": 0, 
                 "belief_state": [
                     {
-                        "slots": [
-                            [
-                                "slot", 
-                                "phone"
-                            ]
-                        ], 
-                        "act": "request"
-                    }, 
-                    {
-                        "slots": [
-                            [
-                                "slot", 
-                                "postcode"
-                            ]
-                        ], 
-                        "act": "request"
-                    }, 
-                    {
-                        "slots": [
-                            [
-                                "price range", 
-                                "cheap"
-                            ]
-                        ], 
-                        "act": "inform"
-                    }, 
-                    {
-                        "slots": [
-                            [
-                                "area", 
-                                "east"
-                            ]
-                        ], 
-                        "act": "inform"
+                        "slots": [], 
+                        "act": ""
                     }
                 ], 
-                "transcript": "Please tell me an Indian restaurant in the center?", 
+                "transcript": "I want to eat Mexican food in east of city", 
                 "system_acts": []
             }
         ]    
