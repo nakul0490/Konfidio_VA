@@ -23,7 +23,7 @@
                 ], 
                 "asr": [
                     [
-                        "What is the phone number and postcode of a cheap restaurant in the east part of town?", 
+                        "Please tell me an Indian restaurant in the center?", 
                         1.0
                     ]
                 ], 
@@ -67,7 +67,7 @@
                         "act": "inform"
                     }
                 ], 
-                "transcript": "What is the phone number and postcode of a cheap restaurant in the east part of town?", 
+                "transcript": "Please tell me an Indian restaurant in the center?", 
                 "system_acts": []
             }
         ]    
