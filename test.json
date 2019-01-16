@@ -1,0 +1,75 @@
+[
+    {
+        "dialogue_idx": 800, 
+        "dialogue": [
+            {
+                "turn_label": [
+                    [
+                        "area", 
+                        "east"
+                    ], 
+                    [
+                        "price range", 
+                        "cheap"
+                    ], 
+                    [
+                        "request", 
+                        "phone"
+                    ], 
+                    [
+                        "request", 
+                        "postcode"
+                    ]
+                ], 
+                "asr": [
+                    [
+                        "What is the phone number and postcode of a cheap restaurant in the east part of town?", 
+                        1.0
+                    ]
+                ], 
+                "system_transcript": "", 
+                "turn_idx": 0, 
+                "belief_state": [
+                    {
+                        "slots": [
+                            [
+                                "slot", 
+                                "phone"
+                            ]
+                        ], 
+                        "act": "request"
+                    }, 
+                    {
+                        "slots": [
+                            [
+                                "slot", 
+                                "postcode"
+                            ]
+                        ], 
+                        "act": "request"
+                    }, 
+                    {
+                        "slots": [
+                            [
+                                "price range", 
+                                "cheap"
+                            ]
+                        ], 
+                        "act": "inform"
+                    }, 
+                    {
+                        "slots": [
+                            [
+                                "area", 
+                                "east"
+                            ]
+                        ], 
+                        "act": "inform"
+                    }
+                ], 
+                "transcript": "What is the phone number and postcode of a cheap restaurant in the east part of town?", 
+                "system_acts": []
+            }
+        ]    
+    }
+]    
