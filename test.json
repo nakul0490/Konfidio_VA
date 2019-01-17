@@ -23,7 +23,7 @@
                 ], 
                 "asr": [
                     [
-                        "I want to eat mexican food", 
+                        "I am looking for medium price restaurant in west of city", 
                         1.0
                     ]
                 ], 
@@ -67,7 +67,7 @@
                         "act": "inform"
                     }
                 ], 
-                "transcript": "I want to eat mexican food", 
+                "transcript": "I am looking for medium price restaurant in west of city", 
                 "system_acts": []
             }
         ]    
