@@ -4,7 +4,7 @@
         "dialogue": [
             {
                 "turn_label": [
-                    []
+                    ["food","italian"]
                 ], 
                 "asr": [
                     [
@@ -17,9 +17,9 @@
                 "belief_state": [
                     {
                         "slots": [
-                            []
+                            ["food","italian"]
                         ], 
-                        "act": ""
+                        "act": "inform"
                     }],
                 "transcript": "I am looking for cheap italian restaurant in the east part of city", 
                 "system_acts": []
