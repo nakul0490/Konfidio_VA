@@ -5,25 +5,13 @@
             {
                 "turn_label": [
                     [
-                        "area", 
-                        "east"
-                    ], 
-                    [
-                        "price range", 
-                        "cheap"
-                    ], 
-                    [
-                        "request", 
-                        "phone"
-                    ], 
-                    [
-                        "request", 
-                        "postcode"
+                        "food", 
+                        "mexican"
                     ]
                 ], 
                 "asr": [
                     [
-                        "I am looking for medium price restaurant in west of city", 
+                        "I am looking for medium price Mexican restaurant in west of city", 
                         1.0
                     ]
                 ], 
@@ -34,40 +22,12 @@
                         "slots": [
                             [
                                 "slot", 
-                                "phone"
-                            ]
-                        ], 
-                        "act": "request"
-                    }, 
-                    {
-                        "slots": [
-                            [
-                                "slot", 
-                                "postcode"
-                            ]
-                        ], 
-                        "act": "request"
-                    }, 
-                    {
-                        "slots": [
-                            [
-                                "price range", 
-                                "cheap"
+                                "food"
                             ]
                         ], 
                         "act": "inform"
-                    }, 
-                    {
-                        "slots": [
-                            [
-                                "area", 
-                                "east"
-                            ]
-                        ], 
-                        "act": "inform"
-                    }
-                ], 
-                "transcript": "I am looking for medium price restaurant in west of city", 
+                    }],
+                "transcript": "I am looking for medium price Mexican restaurant in west of city", 
                 "system_acts": []
             }
         ]    
