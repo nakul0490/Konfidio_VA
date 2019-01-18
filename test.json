@@ -8,7 +8,7 @@
                 ], 
                 "asr": [
                     [
-                        "please provide me the phone number of cheap italian restaurant in the city center", 
+                        "can i have the address of the italian restaurant", 
                         1.0
                     ]
                 ], 
@@ -21,7 +21,7 @@
                         ], 
                         "act": "inform"
                     }],
-                "transcript": "please provide me the phone number of cheap italian restaurant in the city center", 
+                "transcript": "can i have the address of the italian restaurant", 
                 "system_acts": []
             }
         ]    
