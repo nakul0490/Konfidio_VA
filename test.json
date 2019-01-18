@@ -4,11 +4,11 @@
         "dialogue": [
             {
                 "turn_label": [
-                    ["food","chinese"]
+                    ["food","unknown"]
                 ], 
                 "asr": [
                     [
-                        "Can I have the address and phone number for the Golden Wok chinese restaurant?", 
+                        "Please suggest a restaurant in the north of the town", 
                         1.0
                     ]
                 ], 
@@ -17,11 +17,11 @@
                 "belief_state": [
                     {
                         "slots": [
-                            ["food","chinese"]
+                            ["food","unkown"]
                         ], 
                         "act": "inform"
                     }],
-                "transcript": "Can I have the address and phone number for the Golden Wok chinese restaurant?", 
+                "transcript": "Please suggest a restaurant in the north of the town", 
                 "system_acts": []
             }
         ]    
