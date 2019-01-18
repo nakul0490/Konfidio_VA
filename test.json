@@ -4,7 +4,7 @@
         "dialogue": [
             {
                 "turn_label": [
-                    ["food","unknown"]
+                    ["food",""]
                 ], 
                 "asr": [
                     [
@@ -17,7 +17,7 @@
                 "belief_state": [
                     {
                         "slots": [
-                            ["food","unkown"]
+                            ["food",""]
                         ], 
                         "act": "inform"
                     }],
