@@ -8,7 +8,7 @@
                 ], 
                 "asr": [
                     [
-                        "Please suggest a restaurant in the north of the town", 
+                        "Please suggest a cheap restaurant in the city center", 
                         1.0
                     ]
                 ], 
@@ -21,7 +21,7 @@
                         ], 
                         "act": "inform"
                     }],
-                "transcript": "Please suggest a restaurant in the north of the town", 
+                "transcript": "Please suggest a cheap restaurant in the city center", 
                 "system_acts": []
             }
         ]    
